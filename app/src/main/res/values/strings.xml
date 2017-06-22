@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale">This app requires location permission to be granted.</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="journey">Journey</string>
+    <string name="go_to_journeys_list">go to journeys</string>
+    <string name="go_to_map">go to map</string>
+    <string name="your_journeys">Your journeys</string>
+    <string name="current_location">Current location</string>
+    <string name="journey_info">Journey Info</string>
+    <string name="title_activity_journey_details">Map</string>
+    <string name="finish">Finish</string>
+    <string name="journey_details">Journey Details</string>
+</resources>
